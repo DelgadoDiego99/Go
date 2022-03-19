@@ -27,3 +27,6 @@ Go puede retornar dos valores
 Go doc en Google permite buscar todas las librerias disponibles, oficiales y de terceros
 
 Uso de "defer" -> Una por función
+
+
+Concurrencia -> Mejor característica de Golang
