@@ -1,0 +1,29 @@
+Despliegue de aplicaciones
+
+    Docker -> Contenedor para ejecutar aplicación
+    Kubernetes -> Usa docker para despliegue horizontal
+
+
+Números enteros positivos
+
+    unit -> Tipo de variable que va a ser solo entera y positiva
+
+Números decimales
+    float32 y float64
+
+Números complejos
+    Complex64 -> float32
+    Complex128 -> float64
+
+Paquete "fmt"
+    Printf
+        %s -> String
+        %d -> Entero
+        %v -> Tipo desconocido
+        %T -> Para conocer el tipo de una variable
+
+Go puede retornar dos valores
+
+Go doc en Google permite buscar todas las librerias disponibles, oficiales y de terceros
+
+Uso de "defer" -> Una por función
