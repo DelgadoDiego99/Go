@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	m := make(map[string]int)
+	m := make(map[string]int) // Declaración de un diccionario
 
 	m["Jose"] = 14
 	m["Pepito"] = 20
