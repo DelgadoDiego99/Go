@@ -39,6 +39,7 @@ Channels -> Intercambio entre Routines de un solo tipo de dato
     Funciona de forma FIFO
     Llamar la función de retorno de los canales es con "<-c" c: Variable channel
     Retorna de 1 en 1
+    Se usan para almacenar e imprimir datos de retorno de rutinas
 
 Gophers Slack: gophers.slack.com
 Golang Weekly: golangweekly.com
